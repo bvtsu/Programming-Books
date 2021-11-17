@@ -13,4 +13,4 @@ def seshTrack(recordname): #take any type for recordname
 if __name__ == "__main__":
     pass
 else:
-    seshTrack("Starting session:")
+    seshTrack("Initializing new session:")
