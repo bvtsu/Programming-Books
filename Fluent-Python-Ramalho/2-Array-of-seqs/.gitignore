@@ -1,2 +1,2 @@
-# ignore all bin files from lessons
-*.bin
+#ignore all test data from lessons
+testdata/
