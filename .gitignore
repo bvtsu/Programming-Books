@@ -1,4 +1,4 @@
 #ignore folders
 testdata/
 __pycache__/
-
+.ipynb_checkpoints/
