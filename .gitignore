@@ -1,0 +1,4 @@
+#ignore folders
+testdata/
+__pycache__/
+
